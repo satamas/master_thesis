@@ -1,1 +1,8 @@
 examples/
+*.log
+*.aux
+*.toc
+*.pdf
+*.dvi
+*.out
+*.ps
