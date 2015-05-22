@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="382.8432"
+   height="425.7612"
+   id="svg4140"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4142" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="203.56194"
+     inkscape:cy="115.73157"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4145">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-171.43806,-222.33255)">
+    <rect
+       style="fill:#394d54;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6648351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2985"
+       width="381.28125"
+       height="46.844444"
+       x="172.53419"
+       y="600.9292" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="312.98193"
+       y="635.27185"
+       id="text3800"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3802"
+         x="312.98193"
+         y="635.27185"
+         style="font-size:30px">Server</tspan></text>
+    <rect
+       style="fill:#394d54;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6648351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2985-5"
+       width="381.28125"
+       height="46.844444"
+       x="172.66255"
+       y="547.88062" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="302.40231"
+       y="582.22327"
+       id="text3822"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3824"
+         x="302.40231"
+         y="582.22327"
+         style="font-size:30px">Host OS</tspan></text>
+    <rect
+       style="fill:#394d54;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6648351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2985-5-5"
+       width="381.28125"
+       height="46.844444"
+       x="172.1357"
+       y="495.15268" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="280.01996"
+       y="526.85126"
+       id="text3844"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3846"
+         x="280.01996"
+         y="526.85126">Hypervisor</tspan></text>
+    <rect
+       style="fill:#91c5c5;fill-opacity:0"
+       id="rect3850"
+       width="116.92913"
+       height="116.92913"
+       x="177.22664"
+       y="349.02176" />
+    <rect
+       style="fill:#91c5c5;fill-opacity:1"
+       id="rect3852"
+       width="185"
+       height="185"
+       x="171.43806"
+       y="304.20041" />
+    <rect
+       style="fill:#91c5c5;fill-opacity:1;stroke:none"
+       id="rect3854"
+       width="4.6308565"
+       height="1.1577141"
+       x="486.3363"
+       y="405.74979" />
+    <rect
+       style="fill:#e0f0d9;fill-opacity:1;stroke:none"
+       id="rect3852-2"
+       width="181"
+       height="181"
+       x="370.14148"
+       y="307.22171" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="197.97615"
+       y="407.62082"
+       id="text3874"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3876"
+         x="197.97615"
+         y="407.62082">Guest OS</tspan></text>
+    <rect
+       style="fill:#91c5c5;fill-opacity:1"
+       id="rect3878"
+       width="185"
+       height="35.889141"
+       x="172.59578"
+       y="263.33255" />
+    <rect
+       style="fill:#91c5c5;fill-opacity:1"
+       id="rect3878-1"
+       width="185"
+       height="35.889141"
+       x="172.71291"
+       y="222.33255" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="197.65437"
+       y="291.28201"
+       id="text3898"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3900"
+         x="197.65437"
+         y="291.28201">Bins/Libs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="220.88673"
+       y="248.09207"
+       id="text3902"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3904"
+         x="220.88673"
+         y="248.09207">App A</tspan></text>
+    <rect
+       style="fill:#e0f0d9;fill-opacity:1;stroke:none"
+       id="rect3878-4"
+       width="181"
+       height="35.889141"
+       x="370.10004"
+       y="263.33255" />
+    <rect
+       style="fill:#e0f0d9;fill-opacity:1;stroke:none"
+       id="rect3878-1-3"
+       width="185"
+       height="31.889"
+       x="367.30896"
+       y="224.33261" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#394d54;fill-opacity:1;stroke:none;font-family:Sans"
+       x="393.15863"
+       y="291.28201"
+       id="text3898-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3900-3"
+         x="393.15863"
+         y="291.28201">Bins/Libs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#394d54;fill-opacity:1;stroke:none;font-family:Sans"
+       x="416.39099"
+       y="248.09207"
+       id="text3902-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3904-5"
+         x="416.39099"
+         y="248.09207">App B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#394d54;fill-opacity:1;stroke:none;font-family:Sans"
+       x="394.67957"
+       y="408.64212"
+       id="text3874-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3876-8"
+         x="394.67957"
+         y="408.64212">Guest OS</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffa141;stroke-width:1.95697927;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3962"
+       width="183.04303"
+       height="265.81003"
+       x="369.06024"
+       y="223.64206" />
+  </g>
+</svg>

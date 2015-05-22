@@ -1,0 +1,109 @@
+\documentclass[a4paper,14pt]{extreport}
+
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{totcount}
+
+\usepackage[english,russian]{babel}
+
+\usepackage{amsthm}
+
+\usepackage{hyperref}
+
+\usepackage[dvips]{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\graphicspath{{images/eps/}}
+
+\usepackage{titlesec}
+\usepackage{listings}
+\usepackage{indentfirst}
+\usepackage{cite}
+
+\usepackage{geometry}
+\geometry{left=3cm}
+\geometry{right=1cm}
+\geometry{top=1.5cm}
+\geometry{bottom=2cm}
+
+\renewcommand{\baselinestretch}{1.2}
+
+\lstset{numbers=left,
+        frame=single,
+        breaklines=true,
+        breakatwhitespace=true,
+        basicstyle=\ttfamily\small}
+
+\begin{document}
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.}
+\makeatother
+
+\titleformat{\chapter}[hang]{\huge\bfseries}{\thechapter. }{0pt}{\hyphenpenalty=10000\huge\bfseries}
+
+\renewcommand{\theenumi}{\arabic{enumi}}
+\renewcommand{\labelenumi}{\arabic{enumi}}
+\renewcommand{\theenumii}{.\arabic{enumii}}
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+\renewcommand{\theenumiii}{.\arabic{enumiii}}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
+
+\newtotcounter{figurecnt}
+\def\oldfig{} \let\oldfig=\figure
+\def\figure{\stepcounter{figurecnt}\oldfig}
+%òàáëèö (only longtable)
+\newtotcounter{tablecnt}
+\def\oldtab{} \let\oldtab=\table
+\def\table{\stepcounter{tablecnt}\oldtab}
+
+\newtotcounter{citeitem}
+\renewcommand{\citeform}[1]{%
+\ifnum#1>\totvalue{citeitem}%
+{\setcounter{citeitem}{#1} }\fi%
+#1%
+}
+
+\regtotcounter{page}
+
+\def\formbytotal#1#2#3#4#5{%
+    \newcount\c
+    \c \totvalue{#1}\relax
+    \newcount\last
+    \newcount\pnul
+    \last \c\relax
+    \divide \last 10
+    \pnul \last\relax
+    \divide\pnul 10
+    \multiply \pnul-10
+    \advance \pnul\last
+    \multiply \last-10
+    \advance \last\c
+    \total{#1}~#2%
+    \ifnum\pnul=1#5\else%
+        \ifcase\last#5\or#3\or#4\or#4\or#4\else#5\fi
+    \fi
+}
+
+\renewcommand{\lstlistingname}{Листинг}
+\renewcommand\contentsname{Содержание}
+
+\newtheorem{Def}{Определение}[section]
+
+\setcounter{page}{2}
+
+\input{referat}
+
+\tableofcontents
+
+\input{introduction}
+\input{overview}
+\input{app_schema}
+\input{deployment}
+\input{testing}
+\input{conclusion}
+\input{bibliography}
+\input{acknowledgements}
+
+
+\end{document}
