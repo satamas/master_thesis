@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="553.22968"
+   height="669.63879"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3950"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4185254"
+     inkscape:cx="276.61484"
+     inkscape:cy="339.76911"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.905707,-196.31141)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#f58536;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4389"
+       sodipodi:cx="437.03711"
+       sodipodi:cy="408.6731"
+       sodipodi:rx="276.11484"
+       sodipodi:ry="136.61028"
+       d="m 713.15195,408.6731 c 0,75.44777 -123.62083,136.61027 -276.11484,136.61027 -152.49401,0 -276.11484,-61.1625 -276.11484,-136.61027 0,-75.44778 123.62083,-136.61028 276.11484,-136.61028 152.49401,0 276.11484,61.1625 276.11484,136.61028 z"
+       transform="translate(-62.516565,320.16683)" />
+    <rect
+       style="fill:#f50000;fill-opacity:1;stroke:#000000;stroke-width:0.995556;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4391"
+       width="158.61128"
+       height="109.00444"
+       x="138.92348"
+       y="676.03882"
+       ry="17.596647" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1.03413928;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4393"
+       width="306.7601"
+       height="108.96586"
+       x="317.23074"
+       y="676.58502"
+       ry="18.989655" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="361.20682"
+       y="702.47858"
+       id="text4395"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4397"
+         x="361.20682"
+         y="702.47858">Привелигированный код</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="351.9451"
+       y="747.36334"
+       id="text4399"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4401"
+         x="351.9451"
+         y="747.36334">Junit, Kotlin Reflect ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="214.17712"
+       y="378.57254"
+       id="text4403"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4405"
+         x="214.17712"
+         y="378.57254" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="218.22911"
+       y="730.54108"
+       id="text4407"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4409"
+         x="218.22911"
+         y="730.54108">Пользовательский</tspan><tspan
+         sodipodi:role="line"
+         x="218.22911"
+         y="749.29108"
+         id="tspan4411">код</tspan></text>
+    <rect
+       style="fill:#f58536;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4413"
+       width="360.0491"
+       height="120.40228"
+       x="192.91884"
+       y="325.31769"
+       ry="17.596647" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend)"
+       d="m 316.05597,196.81141 1.15771,128.00628"
+       id="path4417"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 441.0891,324.81769 0,-126.84857"
+       id="path4423"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:38.12863159px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="286.92331"
+       y="412.52509"
+       id="text4973"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0490804,0.95321578)"><tspan
+         sodipodi:role="line"
+         id="tspan4975"
+         x="286.92331"
+         y="412.52509">Сервер</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="243.11998"
+       y="640.85364"
+       id="text4981"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4983"
+         x="243.11998"
+         y="640.85364">Процесс исполнения</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-298.57162"
+       y="312.58722"
+       id="text4985"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4987"
+         x="-298.57162"
+         y="312.58722">Запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="232.06964"
+       y="-445.58911"
+       id="text4989"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4991"
+         x="232.06964"
+         y="-445.58911">Ответ</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 310.2674,443.40453 -2.31543,151.66055"
+       id="path4999"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 442.24681,597.38051 2.31543,-152.81827"
+       id="path5189"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="276.6937"
+       y="564.96454"
+       id="text5373"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5375"
+         x="276.6937"
+         y="564.96454" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-503.4686"
+       y="293.68915"
+       id="text5377"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.02622398,-0.99965609,0.99965609,0.02622398,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5379"
+         x="-500.285"
+         y="293.68915">Запуск </tspan><tspan
+         sodipodi:role="line"
+         x="-503.4686"
+         y="318.68915"
+         id="tspan5381">процесса</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="448.84967"
+       y="470.03195"
+       id="text5383"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="448.84967"
+         y="470.03195"
+         id="tspan5389">[{</tspan><tspan
+         sodipodi:role="line"
+         x="448.84967"
+         y="500.03195"
+         id="tspan5397">   file:&quot;Hello.kt&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="448.84967"
+         y="530.03198"
+         id="tspan5399">   class:&quot;Hello&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="448.84967"
+         y="560.03198"
+         id="tspan5401">   ...</tspan><tspan
+         sodipodi:role="line"
+         x="448.84967"
+         y="590.03198"
+         id="tspan5387">}]</tspan></text>
+  </g>
+</svg>

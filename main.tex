@@ -20,11 +20,14 @@
 \usepackage{indentfirst}
 \usepackage{cite}
 
+
 \usepackage{geometry}
 \geometry{left=3cm}
 \geometry{right=1cm}
 \geometry{top=1.5cm}
 \geometry{bottom=2cm}
+
+
 
 \renewcommand{\baselinestretch}{1.2}
 
@@ -57,10 +60,10 @@
 \def\oldtab{} \let\oldtab=\table
 \def\table{\stepcounter{tablecnt}\oldtab}
 
-\newtotcounter{citeitem}
+\newtotcounter{bibitemcnt}
 \renewcommand{\citeform}[1]{%
-\ifnum#1>\totvalue{citeitem}%
-{\setcounter{citeitem}{#1} }\fi%
+\ifnum#1>\totvalue{bibitem}%
+{\setcounter{bibitem}{#1} }\fi%
 #1%
 }
 
@@ -104,6 +107,4 @@
 \input{conclusion}
 \input{bibliography}
 \input{acknowledgements}
-
-
 \end{document}
