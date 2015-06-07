@@ -60,12 +60,12 @@
 \def\oldtab{} \let\oldtab=\table
 \def\table{\stepcounter{tablecnt}\oldtab}
 
-\newtotcounter{bibitemcnt}
-\renewcommand{\citeform}[1]{%
-\ifnum#1>\totvalue{bibitem}%
-{\setcounter{bibitem}{#1} }\fi%
-#1%
-}
+%\newtotcounter{bibitemcnt}
+%\renewcommand{\citeform}[1]{%
+%\ifnum#1>\totvalue{bibitem}%
+%{\setcounter{bibitem}{#1} }\fi%
+%#1%
+%}
 
 \regtotcounter{page}
 
@@ -89,6 +89,9 @@
 }
 
 \renewcommand{\lstlistingname}{Листинг}
+\lstset{
+captionpos=b
+}
 \renewcommand\contentsname{Содержание}
 
 \newtheorem{Def}{Определение}[section]
@@ -105,6 +108,7 @@
 \input{deployment}
 \input{testing}
 \input{conclusion}
+\input{appendix}
 \input{bibliography}
 \input{acknowledgements}
 \end{document}
